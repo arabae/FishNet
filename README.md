@@ -53,7 +53,7 @@ FishNet
 
 </br>
 
-### _>>Learning curve_
+### _>> Learning curve_
 - The figure show the training and validation top1 accuracy over 100 epochs(x-axis).
 
 ![image](https://user-images.githubusercontent.com/46676700/143670757-0bdbd9e1-5b83-477e-9e73-8aafcf23bb22.png)
